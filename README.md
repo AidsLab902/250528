@@ -10,3 +10,5 @@
 
 ---
 本檔案由自動化工具隨機生成。
+
+> 這是 feature/readme-update 分支的額外隨機內容：abc123xyz
